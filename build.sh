@@ -28,7 +28,7 @@ done
 
 pushd magisk
 version="$(grep '^version=' module.prop  | cut -d= -f2)"
-rm -f "../safetynet-fix-$version.zip" classes.dex
+rm -f "../SafetyNet-Patch-$version.zip" classes.dex
 unzip "../java/app/build/outputs/apk/release/app-release.apk" "classes.dex"
-zip -r9 "../safetynet-fix-$version.zip" .
+zip -r9 "../SafetyNet-Patch-$version.zip" .
 popd

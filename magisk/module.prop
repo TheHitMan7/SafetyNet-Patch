@@ -1,7 +1,7 @@
-id=safetynet-fix
-name=Universal SafetyNet Fix
+id=SafetyNet-Patch
+name=SafetyNet Patch
 version=v2.2.1
 versionCode=20201
-author=kdrag0n
-description=A universal fix for SafetyNet on Android 8–12 devices with hardware attestation and unlocked bootloaders.
-updateJson=https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json
+author=kdrag0n, TheHitMan7
+description=Keystore Patch for Android
+updateJson=https://raw.githubusercontent.com/TheHitMan7/SafetyNet-Patch/master/update.json

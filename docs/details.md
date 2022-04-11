@@ -1,4 +1,4 @@
-# How does Universal SafetyNet Fix work?
+# How does SafetyNet Patch work?
 
 Since January 12, 2021, Google Play Services opportunistically uses hardware-backed attestation to improve SafetyNet integrity. It also enforces usage based on the device model name since September 2, 2021.
 

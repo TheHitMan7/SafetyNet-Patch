@@ -10,5 +10,3 @@ if [[ "$(getprop ro.build.version.sdk)" -lt 26 ]]; then
     # Remove Zygisk module, but keep props and scripts
     rm -fr "$MODPATH/zygisk"
 fi
-
-chmod 755 "$MODPATH/service.sh" "$MODPATH/post-fs-data.sh"

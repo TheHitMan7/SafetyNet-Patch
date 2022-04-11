@@ -1,4 +1,4 @@
-# Universal SafetyNet Fix
+# SafetyNet Patch
 
 Magisk module to work around Google's SafetyNet attestation.
 
@@ -10,7 +10,7 @@ Android versions up to 13 Developer Preview 1 are supported, including OEM skins
 
 ## Download
 
-**[Download latest version](https://github.com/kdrag0n/safetynet-fix/releases)**
+**[Download latest version](https://github.com/TheHitMan7/SafetyNet-Patch/releases)**
 
 Install the downloaded module in Magisk Manager, then **enable Zygisk in Magisk settings.**
 
